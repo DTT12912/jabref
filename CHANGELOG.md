@@ -15,6 +15,8 @@ Note that this project **does not** adhere to [Semantic Versioning](https://semv
 
 ### Changed
 
+- Added support for selecting bibliography heading and body text styles in LibreOffice integration. The heading now uses "Bibliography Heading" by default and body text uses "Bibliography 1" by default, matching LibreOffice's default styles. [#12784](https://github.com/JabRef/jabref/issues/12784)
+- Added "Text body" as an additional style option for bibliography entries in LibreOffice integration. [#12784](https://github.com/JabRef/jabref/issues/12784)
 - We merged the 'New Entry', 'Import by ID', and 'New Entry from Plain Text' tools into a single 'Create New Entry' tool. [#8808](https://github.com/JabRef/jabref/issues/8808)
 
 ### Fixed
